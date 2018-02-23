@@ -1,4 +1,4 @@
-FROM 192.168.0.83:20202/hwcse/as-java:8
+FROM 192.168.3.88:20202/hwcse/as-java:8
 
 WORKDIR /home/apps/
 ADD target/zcstest-1.0.0.jar .
